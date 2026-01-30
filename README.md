@@ -11,7 +11,7 @@ This project performs data mining on student attendance datasets to identify pat
 - `outputs/`: Generated plots and visualizations.
 
 ## Requirements
-- Python 3.x
+- Python 
 - pandas
 - numpy
 - matplotlib
@@ -54,5 +54,5 @@ The analysis script generates:
 - **Day-wise Trends**: Bar chart showing attendance percentage by day of week.
 - **Heatmap**: Visual representation of student attendance over time.
 
-## Author
-[Your Name]
+
+
